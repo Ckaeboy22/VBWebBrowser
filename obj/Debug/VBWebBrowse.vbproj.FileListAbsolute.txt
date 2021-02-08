@@ -1,0 +1,12 @@
+D:\Codeystuff\VBWeb\VBWebBrowse\bin\Debug\VBWebBrowse.exe.config
+D:\Codeystuff\VBWeb\VBWebBrowse\bin\Debug\VBWebBrowse.exe
+D:\Codeystuff\VBWeb\VBWebBrowse\bin\Debug\VBWebBrowse.pdb
+D:\Codeystuff\VBWeb\VBWebBrowse\bin\Debug\VBWebBrowse.xml
+D:\Codeystuff\VBWeb\VBWebBrowse\obj\Debug\VBWebBrowse.vbprojAssemblyReference.cache
+D:\Codeystuff\VBWeb\VBWebBrowse\obj\Debug\VBWebBrowse.Form1.resources
+D:\Codeystuff\VBWeb\VBWebBrowse\obj\Debug\VBWebBrowse.Resources.resources
+D:\Codeystuff\VBWeb\VBWebBrowse\obj\Debug\VBWebBrowse.vbproj.GenerateResource.cache
+D:\Codeystuff\VBWeb\VBWebBrowse\obj\Debug\VBWebBrowse.vbproj.CoreCompileInputs.cache
+D:\Codeystuff\VBWeb\VBWebBrowse\obj\Debug\VBWebBrowse.exe
+D:\Codeystuff\VBWeb\VBWebBrowse\obj\Debug\VBWebBrowse.xml
+D:\Codeystuff\VBWeb\VBWebBrowse\obj\Debug\VBWebBrowse.pdb
